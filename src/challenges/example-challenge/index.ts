@@ -1,0 +1,1 @@
+// Example of a challenge that can be imported and used in the app
